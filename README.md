@@ -133,7 +133,7 @@ HAVING COUNT(*) > 2;
 ### Theory Questions - Viva Practice
 
 **Video Tutorial**: Theory Questions (Viva Practice - Progress, Not Perfection)  
-🎥 [Watch Video](#) _(Video link will be updated soon)_
+🎥 [Watch Video](https://drive.google.com/file/d/1FTXaYClzwhCzk54ZKrLvKx91-1rXz6_H/view?usp=sharing)
 
 This video covers theoretical concepts and common viva questions related to:
 
